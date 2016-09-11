@@ -6,9 +6,9 @@ Parametros
 
 1. Numero de archivos que se quieren generar
 2. Tipo de ordenamiento en los numeros que se quieren crear 
-* 1 Ordenados
-* 2 Ordenados de manera inversa
-* 3 Aleatorios
+    * 1 Ordenados
+    * 2 Ordenados de manera inversa
+    * 3 Aleatorios
 3. Cantidad de numeros que se quieren crear por archivo
 
 Correr el script
