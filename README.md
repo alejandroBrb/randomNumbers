@@ -1,21 +1,22 @@
 # Random numbers
-**Crea x numero de archivos con Y numeros**
 
-Parametros
----------
+> Create N number of files with X numbers
 
-1. Numero de archivos que se quieren generar
-2. Tipo de ordenamiento en los numeros que se quieren crear 
-    * 1 Ordenados
-    * 2 Ordenados de manera inversa
-    * 3 Aleatorios
-3. Cantidad de numeros que se quieren crear por archivo
+This is a utility script for algorithms
 
-Correr el script
-----------
+## Parameters
 
-Ejemplo, se crea un archivo ordenado con 100 numeros: 
+1. Number of files to be generated
+2. Type of sorting in the numbers to be created
+    - 1 Ordered
+    - 2 Reverse ordered
+    - 3 Random
+3. Quantity of numbers to be created per file
 
-~~~
-./project_route/createFile.sh 1 1 100
-~~~
+## Run the script
+
+Example, create an ordered file with 100 numbers:
+
+```bash
+`./project_route/createFile.sh 1 1 100`
+```
